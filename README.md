@@ -1,0 +1,2 @@
+# JCbot
+discordbot
